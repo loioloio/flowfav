@@ -18,14 +18,14 @@
 ## 📥 Instalación
 
 > **Nota sobre el Idioma:**
-> Si el addon no aparece en tu idioma tras la instalación, revisa la sección de [Releases](https://github.com/fullstackcurso/Flow-FavManager/releases) para descargar versiones en otros idiomas.
+> Si el addon no aparece en tu idioma tras la instalación, revisa la sección de [Releases](https://github.com/loioloio/flowfav/releases) para descargar versiones en otros idiomas.
 
 ### Opción 1: Desde el Administrador de Archivos de Kodi (Recomendado)
 Este es el método más sencillo ya que no requiere descargar archivos externos manualmente y permite actualizaciones automáticas:
 
 1. Abre Kodi y ve a **Ajustes** (icono del engranaje).
 2. Entra en **Explorador de archivos** y selecciona **Añadir fuente**.
-3. Haz clic en `<Ninguno>` y escribe la siguiente dirección: `https://fullstackcurso.github.io/Flow-FavManager/`
+3. Haz clic en `<Ninguno>` y escribe la siguiente dirección: `https://loioloio.github.io/flowfav/`
 
    > ⚠️ **MUY IMPORTANTE:** Debes escribir **EXACTAMENTE** esta dirección. **NO** copies la dirección que ves en la barra de tu navegador (`github.com...`), ya que esa no funciona en Kodi y te saldrá la carpeta vacía.
 
@@ -39,7 +39,7 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 10. Entra en **Flow FavManager Repository** > **Program add-ons** > **Flow FavManager** y pulsa **Instalar**.
 
 ### Opción 2: Instalación manual mediante archivo ZIP
-1. Descarga el archivo `repository.flowfavmanager-1.0.0.zip` de la última versión desde la sección de [Releases](https://github.com/fullstackcurso/Flow-FavManager/releases).
+1. Descarga el archivo `repository.flowfavmanager-1.0.0.zip` de la última versión desde la sección de [Releases](https://github.com/loioloio/flowfav/releases).
 2. En Kodi, ve a **Add-ons** > **Icono de la cajita** > **Instalar desde archivo zip**.
 3. Busca en tu dispositivo el archivo descargado y selecciónalo para completar la instalación.
 
@@ -104,9 +104,9 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 
 Si encuentras un fallo o tienes una sugerencia:
 
-👉 **[Abrir una Issue en GitHub](https://github.com/fullstackcurso/Flow-FavManager/issues)**
+👉 **[Abrir una Issue en GitHub](https://github.com/loioloio/flowfav/issues)**
 
-👉 **Formulario de Contacto**: Disponible a través del enlace web en la [página principal del perfil de GitHub](https://github.com/fullstackcurso).
+👉 **Formulario de Contacto**: Disponible a través del enlace web en la [página principal del perfil de GitHub](https://github.com/loioloio).
 
 
 ---
@@ -115,4 +115,4 @@ Si encuentras un fallo o tienes una sugerencia:
 
 ---
 
-*Fundado por RubénSDFA1labernt* - [GitHub](https://github.com/fullstackcurso/Flow-FavManager)
+*Fundado por RubénSDFA1labernt* - [GitHub](https://github.com/loioloio/flowfav)
