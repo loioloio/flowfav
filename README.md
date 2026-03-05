@@ -18,14 +18,14 @@
 ## 📥 Installation
 
 > **Language Support:**
-> If the addon is not in your preferred language after installation, check the [Releases](https://github.com/fullstackcurso/Flow-FavManager/releases) section for more language options.
+> If the addon is not in your preferred language after installation, check the [Releases](https://github.com/loioloio/flowfav/releases) section for more language options.
 
 ### Option 1: From Kodi File Manager (Recommended)
 This is the simplest method as it does not require manually downloading external files and enables automatic updates:
 
 1. Open Kodi and go to **Settings** (gear icon).
 2. Enter **File manager** and select **Add source**.
-3. Click on `<None>` and type the following address: `https://fullstackcurso.github.io/Flow-FavManager/`
+3. Click on `<None>` and type the following address: `https://loioloio.github.io/Flow-FavManager/`
 
    > ⚠️ **VERY IMPORTANT:** You must type this address **EXACTLY**. **DO NOT** copy the address URL from your browser bar (github.com...), as that will not work in Kodi and will result in an empty folder.
 
@@ -39,7 +39,7 @@ This is the simplest method as it does not require manually downloading external
 10. Go to **Flow FavManager Repository** > **Program add-ons** > **Flow FavManager** and click **Install**.
 
 ### Option 2: Manual Installation via ZIP File
-1. Download the latest `repository.flowfavmanager-1.0.0.zip` file from the [Releases](https://github.com/fullstackcurso/Flow-FavManager/releases) section.
+1. Download the latest `repository.flowfavmanager-1.0.0.zip` file from the [Releases](https://github.com/loioloio/flowfav/releases) section.
 2. In Kodi, go to **Add-ons** > **Package icon** > **Install from zip file**.
 3. Locate the downloaded file on your device and select it to complete the installation.
 
@@ -102,9 +102,9 @@ This is the simplest method as it does not require manually downloading external
 
 If you find a bug or have a suggestion:
 
-👉 **[Open an Issue on GitHub](https://github.com/fullstackcurso/Flow-FavManager/issues)**
+👉 **[Open an Issue on GitHub](https://github.com/loioloio/flowfav/issues)**
 
-👉 **Contact Form**: Available via the web link on the [main GitHub profile page](https://github.com/fullstackcurso).
+👉 **Contact Form**: Available via the web link on the [main GitHub profile page](https://github.com/loioloio).
 
 ---
 
@@ -112,14 +112,14 @@ If you find a bug or have a suggestion:
 
 ---
 
-*Founded by RubénSDFA1labernt* - [GitHub](https://github.com/fullstackcurso/Flow-FavManager)
+*Founded by RubénSDFA1labernt* - [GitHub](https://github.com/loioloio/flowfav)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/fullstackcurso/Flow-FavManager/total?color=blue&label=Downloads" alt="Downloads">
-  <img src="https://img.shields.io/github/stars/fullstackcurso/Flow-FavManager?style=flat&color=yellow&label=Stars" alt="Stars">
-  <img src="https://api.visitorbadge.io/api/visitors?path=fullstackcurso/Flow-FavManager&label=Visitors&countColor=%23263238&style=flat" alt="Visitors">
+  <img src="https://img.shields.io/github/downloads/loioloio/flowfav/total?color=blue&label=Downloads" alt="Downloads">
+  <img src="https://img.shields.io/github/stars/loioloio/flowfav?style=flat&color=yellow&label=Stars" alt="Stars">
+  <img src="https://api.visitorbadge.io/api/visitors?path=loioloio/flowfav&label=Visitors&countColor=%23263238&style=flat" alt="Visitors">
   <br>
   <small><em>*Metrics are estimates. Download count reflects GitHub Releases only, not direct installations via Kodi.</em></small>
 </p>
