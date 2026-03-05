@@ -25,7 +25,7 @@ This is the simplest method as it does not require manually downloading external
 
 1. Open Kodi and go to **Settings** (gear icon).
 2. Enter **File manager** and select **Add source**.
-3. Click on `<None>` and type the following address: `https://loioloio.github.io/Flow-FavManager/`
+3. Click on `<None>` and type the following address: `[https://loioloio.github.io/Flow-FavManager/](https://loioloio.github.io/flowfav/)`
 
    > ⚠️ **VERY IMPORTANT:** You must type this address **EXACTLY**. **DO NOT** copy the address URL from your browser bar (github.com...), as that will not work in Kodi and will result in an empty folder.
 
@@ -123,3 +123,4 @@ If you find a bug or have a suggestion:
   <br>
   <small><em>*Metrics are estimates. Download count reflects GitHub Releases only, not direct installations via Kodi.</em></small>
 </p>
+
