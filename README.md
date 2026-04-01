@@ -12,7 +12,6 @@
   <!-- <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="800"/> -->
   <!-- <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="800"/> -->
   <!-- <img src="screenshots/screenshot4.png" alt="Screenshot 4" width="800"/> -->
-  <!-- <img src="screenshots/screenshot5.png" alt="Screenshot 5" width="800"/> -->
 </p>
 
 ## 📥 Installation
