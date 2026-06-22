@@ -32,13 +32,13 @@ This is the simplest method as it does not require manually downloading external
 5. Return to the main menu, enter **Add-ons**, and click the **open box icon** (top left).
 6. Select **Install from zip file**.
    - *Note: If a security warning appears, go to Settings and enable "Unknown sources".*
-7. Select the `flowfav` source and choose the file `repository.flowfavmanager-1.0.0.zip`.
+7. Select the `flowfav` source and choose the file `repository.flowfavmanager-1.0.1.zip`.
 8. Wait for the "**Add-on installed**" notification (this installs the repository).
 9. Now, in the same menu, select **Install from repository**.
 10. Go to **Flow FavManager Repository** > **Program add-ons** > **Flow FavManager** and click **Install**.
 
 ### Option 2: Manual Installation via ZIP File
-1. Download the latest `repository.flowfavmanager-1.0.0.zip` file from the [Releases](https://github.com/loioloio/flowfav/releases) section.
+1. Download the latest `repository.flowfavmanager-1.0.1.zip` file from the [Releases](https://github.com/loioloio/flowfav/releases) section.
 2. In Kodi, go to **Add-ons** > **Package icon** > **Install from zip file**.
 3. Locate the downloaded file on your device and select it to complete the installation.
 
@@ -145,10 +145,6 @@ If you find a bug or have a suggestion:
 👉 **[Open an Issue on GitHub](https://github.com/loioloio/flowfav/issues)**
 
 👉 **Contact Form**: Available via the web link on the [main GitHub profile page](https://github.com/loioloio).
-
----
-
-*If you are looking for the source code, switch to the source branch of this repository.*
 
 ---
 
