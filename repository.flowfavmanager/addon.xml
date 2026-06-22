@@ -2,9 +2,9 @@
 <addon id="repository.flowfavmanager" name="Flow FavManager Repository" version="1.0.1" provider-name="RubenSDFA1laberot">
     <extension point="xbmc.addon.repository" name="Flow FavManager Repository">
         <dir>
-            <info compressed="false">https://loioloio.github.io/flowfavweb/addons.xml</info>
-            <checksum>https://loioloio.github.io/flowfavweb/addons.xml.md5</checksum>
-            <datadir zip="true">https://loioloio.github.io/flowfavweb/</datadir>
+            <info compressed="false">https://loioloio.github.io/flowfav/addons.xml</info>
+            <checksum>https://loioloio.github.io/flowfav/addons.xml.md5</checksum>
+            <datadir zip="true">https://loioloio.github.io/flowfav/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
