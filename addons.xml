@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <addons>
-<addon id="plugin.program.flowfavmanager" name="Flow FavManager" version="2.0.1" provider-name="RubénSDFA1laberot">
+<addon id="plugin.program.flowfavmanager" name="Flow FavManager" version="2.0.2" provider-name="RubénSDFA1laberot">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.25.1"/>
@@ -24,6 +24,17 @@
     <summary lang="fr">Organisation avancée et personnalisation des favoris</summary>
     <summary lang="de">Erweiterte Organisation und Anpassung von Favoriten</summary>
     <summary lang="it">Organizzazione avanzata e personalizzazione dei preferiti</summary>
+    <summary lang="ru">Расширенная организация и настройка избранного</summary>
+    <summary lang="zh">收藏夹的高级组织和自定义</summary>
+    <summary lang="hi">पसंदीदा का उन्नत संगठन और अनुकूलन</summary>
+    <summary lang="ja">お気に入りの高度な整理とカスタマイズ</summary>
+    <summary lang="ar">تنظيم وتخصيص متقدم للمفضلات</summary>
+    <summary lang="bn">প্রিয় জিনিসের উন্নত সংগঠন এবং কাস্টমাইজেশন</summary>
+    <summary lang="id">Organisasi dan kustomisasi favorit tingkat lanjut</summary>
+    <summary lang="ur">پسندیدہ की اعلی درجے کی تنظیم اور تخصیص</summary>
+    <summary lang="vi">Tổ chức và tùy chỉnh yêu thích nâng cao</summary>
+    <summary lang="tr">Sık kullanılanların gelişmiş organizasyonu ve özelleştirilmesi</summary>
+    <summary lang="ko">즐겨찾기의 고급 구성 및 사용자 설정</summary>
     <description lang="es">Flow FavManager mejora la experiencia de gestión de favoritos en Kodi.
 Permite organizarlos, personalizar su apariencia y las acciones que realizan. Incluye herramientas de copia de seguridad, un editor intuitivo, perfiles y ordenación por secciones, entre otras funciones.</description>
     <description lang="en">Flow FavManager improves the favorites management experience in Kodi.
@@ -36,7 +47,29 @@ Il permet de les organiser, de personnaliser leur apparence et les actions qu'il
 Es ermöglicht Ihnen, sie zu organisieren, ihr Aussehen und die Aktionen, die sie ausführen, anzupassen. Beinhaltet Backup-Tools, einen intuitiven Editor, Profile und Sortierung nach Abschnitten, unter anderem.</description>
     <description lang="it">Flow FavManager migliora l'esperienza di gestione dei preferiti in Kodi.
 Consente di organizzarli, personalizzarne l'aspetto e le azioni che eseguono. Include strumenti di backup, un editor intuitivo, profili e ordinamento per sezioni, tra le altre funzioni.</description>
-    <news>v2.0.1
+    <description lang="ru">Flow FavManager улучшает управление избранным в Kodi.
+Позволяет организовывать их, настраивать их внешний вид и выполняемые ими действия. Включает инструменты резервного копирования, интуитивно понятный редактор, профили, сортировку по разделам и другие функции.</description>
+    <description lang="zh">Flow FavManager 改善了 Kodi 中的收藏夹管理体验。
+它允许您组织它们，自定义它们的外观及其执行的操作。包括备份工具、直观的编辑器、配置文件和按部分排序等功能。</description>
+    <description lang="hi">Flow FavManager कोडी में पसंदीदा प्रबंधन अनुभव में सुधार करता.
+यह आपको उन्हें व्यवस्थित करने, उनकी उपस्थिति और उनके द्वारा किए जाने वाले कार्यों को अनुकूलित करने की अनुमति देता है। इसमें बैकअप टूल, एक सहज संपादक, प्रोफाइल और अनुभागों द्वारा सॉर्टिंग, अन्य कार्यों के बीच शामिल हैं।</description>
+    <description lang="ja">Flow FavManagerは、Kodiでのお気に入り管理体験を向上させます。
+お気に入りの整理、外観のカスタマイズ、実行するアクション設定が可能です。バックアップツール、直感的なエディタ、プロファイル、セクション別の並べ替えなどの機能が含まれています。</description>
+    <description lang="ar">يعمل Flow FavManager على تحسين تجربة إدارة المفضلات في Kodi.
+يتيح لك تنظيمها وتخصيص مظهرها والإجراءات التي تقوم بها. يتضمن أدوات النسخ الاحتياطي، ومحرراً بديهياً، وملفات تعريف, والفرز حسب الأقسام، من بين وظائف أخرى.</description>
+    <description lang="bn">Flow FavManager কোডিতে প্রিয় ম্যানেজমেন্টের অভিজ্ঞতা উন্নত করে।
+এটি আপনাকে সেগুলি সংগঠিত করতে, তাদের চেহারা এবং তারা যে কাজগুলি সম্পাদন করে তা কাস্টমাইজ করতে দেয়। অন্যান্য ফাংশনগুলির মধ্যে ব্যাকআপ সরঞ্জাম, একটি স্বজ্ঞাত সম্পাদক, প্রোফাইল এবং বিভাগ অনুসারে সাজানোর সুবিধা অন্তর্ভুক্ত রয়েছে।</description>
+    <description lang="id">Flow FavManager meningkatkan pengalaman manajemen favorit di Kodi.
+Memungkinkan Anda mengaturnya, menyesuaikan tampilannya, dan tindakan yang dilakukannya. Termasuk alat cadangan, editor intuitif, profil, dan pengurutan berdasarkan bagian, di antara fungsi lainnya.</description>
+    <description lang="ur">Flow FavManager کوڈی میں پسندیدہ انتظام کے تجربے کو بہتر بناتا ہے۔
+یہ آپ کو انہیں منظم کرنے, ان کی ظاہری شکل اور ان کے انجام دینے والے اعمال کو اپنی مرضی کے مطابق بنانے کی اجازت دیتا ہے۔ بیک اپ ٹولز، ایک بدیہی ایڈیٹر، پروفائلز اور حصوں کے لحاظ سے ترتیب، دیگر افعال کے درمیان شامل ہیں۔</description>
+    <description lang="vi">Flow FavManager cải thiện trải nghiệm quản lý yêu thích trong Kodi.
+Cho phép bạn sắp xếp chúng, tùy chỉnh giao diện và các hành động chúng thực hiện. Bao gồm các công cụ sao lưu, trình chỉnh sửa trực quan, hồ sơ và sắp xếp theo mục, cùng các chức năng khác.</description>
+    <description lang="tr">Flow FavManager, Kodi'deki favori yönetimi deneyimini iyileştirir.
+Bunları düzenlemenize, görünümlerini ve gerçekleştirdikleri eylemleri özelleştirmenize olanak tanır. Yedekleme araçları, sezgisel bir düzenleyici, profiller ve bölümlere göre sıralama gibi işlevler içerir.</description>
+    <description lang="ko">Flow FavManager는 Kodi의 즐겨찾기 관리 환경을 개선합니다.
+즐겨찾기를 정리하고, 모양과 수행하는 동작을 사용자 정의할 수 있습니다. 백업 도구, 직관적인 에디터, 프로필 및 섹션별 정렬 등의 기능이 포함되어 있습니다.</description>
+    <news>v2.0.2
 Web Remote Control
 - Browser-Based Management: Access and organise favourites from any device on the local network (PC, phone, tablet) through a responsive web interface.
 - Interactive Actions: Move favourites up/down, rename and delete items, with modal dialogs and toast notifications.
